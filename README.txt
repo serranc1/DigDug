@@ -1,6 +1,13 @@
 Author: 
 Christian Agbayani Serrano
 
+How to set up Dig Dug:
+1. Get the java files and put them into an empty Android Studio project.
+2. Add the icons to the game by using the "New -> Image Asset" option on the drawable folder in project view. Name each icon with the name
+   it comes with (Ex: If you're adding digdug.png as the image asset, name the image asset "digdug" and make sure it's a launcher icon).
+3. Change the name of the package on each java file to match your own package name.
+4. Run the app to start the game.
+
 How to play Dig Dug:
 -You need to click on something for the characters to move on the screen.
 -Move Dig Dug by pressing the direction you want to move in on the directional pad at the bottom left corner of the screen.
